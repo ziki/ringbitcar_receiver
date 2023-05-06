@@ -1,0 +1,26 @@
+{
+    "name": "RingbitCar_Case_03",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "RingbitCar": "github:tinkertanker/pxt-ringbitcar#01f9164ad1e9d919a2805d1c50a141e8816d01cf",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "5.0.12",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
